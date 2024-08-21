@@ -1,4 +1,4 @@
-<img src="Header.png" alt="Inj3ctLab Header" width="300"/>
+<img src="Header.png" alt="Inj3ctLab Header" />
 
 # Inj3ctLab
 
