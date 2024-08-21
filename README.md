@@ -1,4 +1,4 @@
-<img src="Header.png" alt="Inj3ctLab Header" />
+<img src="README/Header.png" alt="Inj3ctLab Header" />
 
 # Inj3ctLab
 
@@ -76,4 +76,4 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 Para mais informações ou dúvidas, entre em contato através do [LinkedIn](https://www.linkedin.com/in/933d13b9/).
 
-<img src="sd.webp" alt="Inj3ctLab footer"/>
+<img src="README/sd.webp" alt="Inj3ctLab footer"/>
