@@ -1,4 +1,4 @@
-<img src="art.webp" alt="Inj3ctLab Logo" width="300"/>
+<img src="Header.png" alt="Inj3ctLab Header" width="300"/>
 
 # Inj3ctLab
 
