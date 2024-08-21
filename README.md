@@ -1,4 +1,4 @@
-![Inj3ctLab Logo](art.png)
+![Inj3ctLab Logo](art.webp)
 # Inj3ctLab
 
 **Inj3ctLab** é uma aplicação web vulnerável, criada para simular cenários de SQL Injection. Esta ferramenta foi desenvolvida para auxiliar profissionais e entusiastas de cibersegurança a praticar e entender melhor essa vulnerabilidade crítica.
