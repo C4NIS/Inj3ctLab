@@ -76,6 +76,4 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 
 Para mais informações ou dúvidas, entre em contato através do [LinkedIn](https://www.linkedin.com/in/933d13b9/).
 
----
-
-Sinta-se à vontade para ajustar qualquer parte ou adicionar mais detalhes! Se precisar de algo específico ou tiver sugestões, é só falar.
+<img src="sd.webp" alt="Inj3ctLab footer"/>
