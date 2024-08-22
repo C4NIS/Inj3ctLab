@@ -2,6 +2,23 @@
   text-align: center;
 }
 
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.app {
+  background-image: url('./assets/background.webp'); /* Caminho relativo para a imagem */
+  background-size: cover; /* A imagem cobre toda a área */
+  background-position: center; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita a repetição da imagem */
+  min-height: 100vh; /* Garante que o app ocupe toda a altura da viewport */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
