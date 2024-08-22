@@ -198,4 +198,21 @@
   }
 
   
-  
+  .error-container {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 250px;
+    padding: 10px;
+    background-color: #ffdddd;
+    border: 1px solid #ff5c5c;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.error-message {
+    color: #d8000c;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: left;
+}
