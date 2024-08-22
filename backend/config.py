@@ -1,9 +1,8 @@
-# config.py
 import os
 
 class Config:
-    SECRET_KEY = os.environ.get('SECRET_KEY') or 'uma_chave_secreta_qualquer'
-    MYSQL_HOST = 'localhost'
-    MYSQL_USER = 'seu_usuario_mysql'
-    MYSQL_PASSWORD = 'sua_senha_mysql'
-    MYSQL_DB = 'nome_do_banco_de_dados'
+    MYSQL_HOST = '172.17.0.2'
+    MYSQL_PORT = 3306
+    MYSQL_USER = 'inj3ctlab_user'
+    MYSQL_PASSWORD = 'your_password'
+    MYSQL_DB = 'inj3ctlab_db'
