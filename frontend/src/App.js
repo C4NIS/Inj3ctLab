@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import FlipCard from './components/FlipCard';
 
 function App() {
   return (
-    pass
+    <div>
+      <FlipCard />
+    </div>
   );
 }
 
